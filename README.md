@@ -1,5 +1,3 @@
-# GIAB
-
 # === GIAB data ===
 
 ## AshkenazimTrio/HG002_NA24385_son
